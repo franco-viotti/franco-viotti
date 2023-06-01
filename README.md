@@ -1,11 +1,11 @@
 ### Hi, I'm Franco 👋👨‍💻
 
 <!--
-**francov240/francov240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**franco-viotti/franco-viotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-  ![](https://komarev.com/ghpvc/?username=francov240&color=orange&style=plastic)
+  ![](https://komarev.com/ghpvc/?username=franco-viotti&color=orange&style=plastic)
 - 🌱 Currently living in Córdoba, Argentina.
 - 📚 I'm an advanced Computer Engineering student at the National University of Cordoba.
 - 💻 I’m interested in becoming a DevOps and Software Engineer.
